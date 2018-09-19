@@ -1,5 +1,5 @@
 {
-  "name": "firstborn/migrationmanager",
+  "name": "hyperoslo/migration-manager",
   "description": "Quickly create migrations for settings and content at the click of a mouse.",
   "version": "3.0.11",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "type": "craft-plugin",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "craftcms/cms": "^3.0.0-RC1"
   },
